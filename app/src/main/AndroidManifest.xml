@@ -23,9 +23,7 @@
 
        <activity
             android:name=".activities.ActivityMenuMain"
-            android:label="@string/app_name"
-            android:launchMode="singleTop"
-            android:screenOrientation="portrait" >
+            android:label="@string/app_name" >
 
             <!-- This is how we know this is the main Activity to
                  start first -->
